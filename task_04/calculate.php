@@ -1,5 +1,4 @@
 
-
 <?php
 require "Functin/funk.php";
 $x = $_POST['x'];
